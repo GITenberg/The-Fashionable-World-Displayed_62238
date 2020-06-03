@@ -1,0 +1,25 @@
+_repo: The-Fashionable-World-Displayed_62238
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Owen, John
+    alias: Owen, John, Rector of Paglesham, Essex
+    birthdate: 1766
+    deathdate: 1822
+    gutenberg_agent_id: '51843'
+    url: http://www.gutenberg.org/2009/agents/51843
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions -- 19th century'
+- !lcc 'HN'
+- GITenberg
+title: The Fashionable World Displayed
+url: http://www.gutenberg.org/ebooks/62238
